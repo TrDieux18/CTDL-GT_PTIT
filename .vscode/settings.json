@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.linkedEditing": true,
+    "editor.minimap.autohide": false,
+    "editor.minimap.showSlider": "mouseover",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false
+}
